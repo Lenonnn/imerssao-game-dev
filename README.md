@@ -1,8 +1,9 @@
-**Imersão Game Dev Alura**  :squirrel:
+# **Imersão Game Dev Alura** 
 
 **Oferecimento do curso** - [Alura](https://www.alura.com.br/)  :+1:
 
-'Semana de treinamento e imerssão em JavaScript com a alura, muito conhecimento adquirido'
+- Semana de treinamento e imerssão em JavaScript com a alura, muito conhecimento adquirido
+- De: 22-06-2020 até 26-06-2020
 
 
 **Construi o** *Game da HIPSTA , e ficou* **TOP** :jack_o_lantern:
@@ -20,11 +21,16 @@
 Confira as imagens do jogo.
 
 ## **Tela Inicial**
-![Início](teste.site)
+
+![Tela Inicial](https://user-images.githubusercontent.com/39719285/85905348-91364900-b7e1-11ea-909f-b036d751607b.png)
+
 ## **Tela do jogo**
-![Jogo](teste.site)
+
+![jogo](https://user-images.githubusercontent.com/39719285/85905371-9d220b00-b7e1-11ea-9a91-ab19bc04e81e.png)
+
 ## **Tela Game Over**
-![Fim!](teste.site)
+
+![gameover](https://user-images.githubusercontent.com/39719285/85905393-aad79080-b7e1-11ea-8bfa-1c1901a8d780.png)
 
 
 ## COMO JOGAR ? :clubs: :diamonds: :trophy:
@@ -33,19 +39,23 @@ Confira as imagens do jogo.
 
 *Lembrando que é possível baixar o código fonte e jogar localmente, ou acessando o site do resultado do jogo*
 
-> Para rodar o game, é necessário baixar o pacote de arquivos e instalar o plugin Live Server no VSCode.
+> Para rodar o game, é necessário baixar o pacote de arquivos e instalar o plugin Live Server no VSCode, e após, rodar o arquivo 'index.html'
 > Para reiniciar o jogo, reinicie a página.
 
 ### Se preferir pode jogar pelo ' github Pages'
 
-[Acesse o jogo clicando aqui](teste.site) :octocat:
+[Acesse o jogo clicando aqui](https://lenonnn.github.io/imerssaogameDev/) :octocat:
 
 
  ```
- O jog pode receber melhorias a vontade, inclusive, vou melhorar a versão ao poucos. Heheheheheh
+ O jogo pode receber melhorias a vontade, inclusive, vou melhorar a versão ao poucos. Heheheheheh
  ```
  :heavy_check_mark:
 
 
- **See you!!!!!**  :earth_americas:
 
+ *Ah, ainda é possível construir um certificado usando* [esse repositório](https://github.com/imersao-gamedev/certificado).
+
+
+
+ **See you!!!!!**  :earth_americas:
