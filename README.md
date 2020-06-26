@@ -1,4 +1,4 @@
-**Imersão Game Dev Alura**  :squirrel:
+# **Imersão Game Dev Alura** 
 
 **Oferecimento do curso** - [Alura](https://www.alura.com.br/)  :+1:
 
@@ -43,7 +43,7 @@ Confira as imagens do jogo.
 
 ### Se preferir pode jogar pelo ' github Pages'
 
-[Acesse o jogo clicando aqui](teste.site) :octocat:
+[Acesse o jogo clicando aqui](https://lenonnn.github.io/imerssaogameDev/) :octocat:
 
 
  ```
