@@ -3,6 +3,7 @@
 **Oferecimento do curso** - [Alura](https://www.alura.com.br/)  :+1:
 
 'Semana de treinamento e imerssão em JavaScript com a alura, muito conhecimento adquirido'
+'De: 22-06-2020 até 26-06-2020
 
 
 **Construi o** *Game da HIPSTA , e ficou* **TOP** :jack_o_lantern:
@@ -38,7 +39,7 @@ Confira as imagens do jogo.
 
 *Lembrando que é possível baixar o código fonte e jogar localmente, ou acessando o site do resultado do jogo*
 
-> Para rodar o game, é necessário baixar o pacote de arquivos e instalar o plugin Live Server no VSCode.
+> Para rodar o game, é necessário baixar o pacote de arquivos e instalar o plugin Live Server no VSCode, e após, rodar o arquivo 'index.html'
 > Para reiniciar o jogo, reinicie a página.
 
 ### Se preferir pode jogar pelo ' github Pages'
@@ -47,9 +48,14 @@ Confira as imagens do jogo.
 
 
  ```
- O jog pode receber melhorias a vontade, inclusive, vou melhorar a versão ao poucos. Heheheheheh
+ O jogo pode receber melhorias a vontade, inclusive, vou melhorar a versão ao poucos. Heheheheheh
  ```
  :heavy_check_mark:
+
+
+
+ *Ah, ainda é possível construir um certificado usando* [esse repositório](https://github.com/imersao-gamedev/certificado)
+
 
 
  **See you!!!!!**  :earth_americas:
