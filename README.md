@@ -20,11 +20,16 @@
 Confira as imagens do jogo.
 
 ## **Tela Inicial**
-![Início](teste.site)
+
+![Tela Inicial](https://user-images.githubusercontent.com/39719285/85905348-91364900-b7e1-11ea-909f-b036d751607b.png)
+
 ## **Tela do jogo**
-![Jogo](teste.site)
+
+![jogo](https://user-images.githubusercontent.com/39719285/85905371-9d220b00-b7e1-11ea-9a91-ab19bc04e81e.png)
+
 ## **Tela Game Over**
-![Fim!](teste.site)
+
+![gameover](https://user-images.githubusercontent.com/39719285/85905393-aad79080-b7e1-11ea-8bfa-1c1901a8d780.png)
 
 
 ## COMO JOGAR ? :clubs: :diamonds: :trophy:
